@@ -1,0 +1,7 @@
+C:\Users\Urdasmil-PC\source\repos\Detector\obj\Debug\Detector.csprojAssemblyReference.cache
+C:\Users\Urdasmil-PC\source\repos\Detector\obj\Debug\Detector.csproj.CoreCompileInputs.cache
+C:\Users\Urdasmil-PC\source\repos\Detector\bin\Debug\Detector.exe.config
+C:\Users\Urdasmil-PC\source\repos\Detector\bin\Debug\Detector.exe
+C:\Users\Urdasmil-PC\source\repos\Detector\bin\Debug\Detector.pdb
+C:\Users\Urdasmil-PC\source\repos\Detector\obj\Debug\Detector.exe
+C:\Users\Urdasmil-PC\source\repos\Detector\obj\Debug\Detector.pdb
